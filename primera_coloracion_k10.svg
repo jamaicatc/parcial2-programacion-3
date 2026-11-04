@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<line x1="60" y1="60" x2="180" y2="60" stroke="#64748b" stroke-width="3"/>
+<line x1="180" y1="60" x2="180" y2="180" stroke="#64748b" stroke-width="3"/>
+<line x1="180" y1="180" x2="60" y2="180" stroke="#64748b" stroke-width="3"/>
+<line x1="60" y1="180" x2="60" y2="60" stroke="#64748b" stroke-width="3"/>
+<line x1="60" y1="60" x2="180" y2="180" stroke="#64748b" stroke-width="3"/>
+<circle cx="60" cy="60" r="22" fill="#2563eb" stroke="#0f172a" stroke-width="2"/>
+<text x="60" y="65" text-anchor="middle" font-family="sans-serif" font-size="14" fill="white">A</text>
+<circle cx="180" cy="60" r="22" fill="#dc2626" stroke="#0f172a" stroke-width="2"/>
+<text x="180" y="65" text-anchor="middle" font-family="sans-serif" font-size="14" fill="white">B</text>
+<circle cx="180" cy="180" r="22" fill="#16a34a" stroke="#0f172a" stroke-width="2"/>
+<text x="180" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" fill="white">C</text>
+<circle cx="60" cy="180" r="22" fill="#dc2626" stroke="#0f172a" stroke-width="2"/>
+<text x="60" y="185" text-anchor="middle" font-family="sans-serif" font-size="14" fill="white">D</text>
+</svg>
