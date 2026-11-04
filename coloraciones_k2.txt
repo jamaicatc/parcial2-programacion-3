@@ -1,0 +1,2 @@
+Coloraciones válidas con k=2
+Total: 0
