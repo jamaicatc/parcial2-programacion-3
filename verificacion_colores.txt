@@ -1,0 +1,2 @@
+Línea 3: conflicto en arista A-C (color 1)
+Línea 2: válida (k=3)
